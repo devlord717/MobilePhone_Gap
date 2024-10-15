@@ -1,9 +1,9 @@
 GWT Mobile Phonegap
 ===================
 
-gwtmobile-phonegap is a GWT wrapper of the [PhoneGap](http://github.com/phonegap/phonegap) Javascript library. PhoneGap is a cross-platform development framework that provides core mobile device features to web-based mobile apps. GwtMobile-PhoneGap enables GWT mobile applications to use PhoneGap functions.
+gwtmobile-phonegap is a GWT wrapper of the PhoneGap Javascript library. PhoneGap is a cross-platform development framework that provides core mobile device features to web-based mobile apps. GwtMobile-PhoneGap enables GWT mobile applications to use PhoneGap functions.
 
-gwtmobile-phonegap is part of [GWT Mobile](http://github.com/dennisjzh/GwtMobile), a GWT mobile development platform.
+gwtmobile-phonegap is part of [GWT Mobile], a GWT mobile development platform.
 
 Wrapped PhoneGap Functions
 --------------------------
